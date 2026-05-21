@@ -766,9 +766,9 @@ If you use this project, please cite:
 
 @misc{capstone2026,
   title={IoT Anomaly Detection Framework: GNN-based NIDS},
-  author={Your Name},
+  author={Vedant Konde},
   year={2026},
-  howpublished={\url{https://github.com/your-repo}}
+  howpublished={\url{https://github.com/22f3002244/IoT-Network-Analysis}}
 }
 ```
 
